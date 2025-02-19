@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tibame\\source\\repos\\GitClass2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A978BB3-6FEB-461C-9D8E-C09B2F3D283E}|GitClass2\\GitClass2.csproj|c:\\users\\tibame\\source\\repos\\gitclass2\\gitclass2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A978BB3-6FEB-461C-9D8E-C09B2F3D283E}|GitClass2\\GitClass2.csproj|solutionrelative:gitclass2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tibame\\source\\repos\\GitClass2\\GitClass2\\Form1.cs",
+              "RelativeDocumentMoniker": "GitClass2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tibame\\source\\repos\\GitClass2\\GitClass2\\Form1.cs [Design]",
+              "RelativeToolTip": "GitClass2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:08:31.896Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
